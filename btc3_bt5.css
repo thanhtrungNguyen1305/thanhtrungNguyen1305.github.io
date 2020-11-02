@@ -1,0 +1,59 @@
+body{
+	margin: 100px;
+}
+.panel_bai5{
+	border: 2px solid #000000;
+	width: 500px;
+	height: 180px;
+	position: relative;
+}
+#head{
+	background-color: #ff6600;
+	width: auto;
+	height: 40px;
+	font-size: 20px;
+	font: Arial;
+	line-height: 40px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.panel_bai5{
+	background-color: 
+}
+.body input{
+	position: relative;
+	left: 200px;
+	margin: 10px 0 0 10px;
+}
+.body #chieu_dai input{
+	background-color: #dddddd;
+	color: #000000;
+}
+.body #chieu_rong input{
+	background-color: #dddddd;
+	color: #000000;
+}
+.body #dien_tich input{
+	background-color: #cc3300;
+	color: white;
+}
+.body label{
+	position: absolute;
+	margin: 12px 30px 0 10px;
+	line-height: 10px;
+	font-size: 20px;
+}
+.body {
+	border: 1px solid #000000;
+	background-color: #FF9933;
+	height: 139px;
+}
+.body button{
+	position: absolute;
+	left: 200px;
+	top: 150px;
+	background-color: #555555;
+	color: #000000;
+	font-weight: bold;
+}
